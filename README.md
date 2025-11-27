@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there! I'm Juan Marín
 
-<!--
-**marinr-dev/marinr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Systems Engineering student** passionate about **Computer Science** and **Mathematics**. My goal is to bridge the gap between abstract mathematical concepts and practical software solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+*  Studying **Systems Engineering** with **Computer Science** & **Mathematics**.
+*  Enthusiast of **Applied Mathematics** and Logic.
+*  Currently focused on **Python** and **Web Development**.
+
+### Languages and Tools
+* **Core:** Python
+* **Web:** HTML5, CSS3 (Responsive Design)
+* **Tools:** Git, GitHub, VS Code, Linux
+
+---
+*"To understand mathematics is to understand the world."*
