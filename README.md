@@ -7,7 +7,7 @@ I'm a **Systems Engineering student** passionate about **Computer Science** and 
 ### About Me
 *  Studying **Systems Engineering** with **Computer Science** & **Mathematics**.
 *  Enthusiast of **Applied Mathematics** and Logic.
-*  Currently focused on **Python** and **Web Development**.
+*  Currently focused on **Programming Logic** and **Web Development**.
 
 ### Languages and Tools
 * **Core:** Python
