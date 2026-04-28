@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to my profile
 
-<!--
-**marinr-dev/marinr-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems Engineering and Mathematics undergraduate at **Universidad de Antioquia (UdeA)** and **EAFIT**. Dedicated to mastering the foundations of computing, the rigor of mathematics, and the logic of software development.
 
-Here are some ideas to get you started:
+### Project Areté
+This profile serves as a continuous log of my daily commitment to excellence. **Project Areté** is my personal framework for tracking progress across technical disciplines, academic milestones, and creative endeavors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Focus
+- **Computing Theory**
+- **Artificial Intelligence**
+- **Software Development**
+- **Mathematics**
+
+### Current Interests
+- **Academic Mastery**
+- **Technical Certification**
+- **Musical Production**
+- **Linguistic Proficiency**
+
+---
+*“The soul's satisfaction lies in the fulfillment of its purpose.”*
