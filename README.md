@@ -3,7 +3,7 @@
 Systems Engineering and Mathematics undergraduate at **Universidad de Antioquia (UdeA)** and **EAFIT**. Dedicated to mastering the foundations of computing, the rigor of mathematics, and the logic of software development.
 
 ### Project Areté
-This profile serves as a continuous log of my daily commitment to excellence. **Project Areté** is my personal framework for tracking progress across technical disciplines, academic milestones, and creative endeavors.
+Project Areté is a personal initiative to document my learning process in systems engineering and mathematics. This profile serves as a central log for my academic notes, technical projects, and daily progress.
 
 ### Technical Focus
 - **Computing Theory**
